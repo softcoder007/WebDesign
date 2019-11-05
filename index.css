@@ -1,0 +1,30 @@
+body{
+background-color : #acacac;
+}
+p{
+	color:green;
+	background-color:transparent;
+	bolder: 1 px solid black;	
+	text-decoration:none;
+}
+img {}
+p:hover{
+	color:black;
+}
+a:link	{
+	color:blue;
+	background-color:transparent;
+	text-decoration:none;
+	font-size:100%;
+	
+}
+a:visited {
+	color:black;
+}
+a:hover {
+	color:green;
+}
+a:active {
+	color:red;
+}
+
